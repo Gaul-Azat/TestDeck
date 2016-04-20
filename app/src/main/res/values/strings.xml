@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestDeck</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_refresh">Update</string>
+</resources>
